@@ -1,4 +1,6 @@
 # .vim
+### Submodules : nerdtree, ctrlp.vim, vim-gitgutter, vimwiki
+
 1. Clone this repository to the home folder.
 2. Create a soft link from .vimrc in the project folder to .vimrc in home folder
 > ln -s .vimrc .vim/.vimrc
