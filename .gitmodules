@@ -10,3 +10,6 @@
 [submodule "bundle/vim-gitgutter"]
 	path = bundle/vim-gitgutter
 	url = https://github.com/airblade/vim-gitgutter
+[submodule "/home/gideon/.vim/bundle/goyo"]
+	path = /home/gideon/.vim/bundle/goyo
+	url = https://github.com/junegunn/goyo.vim
