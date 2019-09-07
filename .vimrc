@@ -38,3 +38,6 @@ let g:vimwiki_list = [{'path': '$HOME/Vault/notebook/',
                         \ 'syntax': 'markdown', 'ext': '.md'}]
 let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlP'
+
+nnoremap j gj
+nnoremap k gk
